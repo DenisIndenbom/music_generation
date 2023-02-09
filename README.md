@@ -8,9 +8,9 @@ The dataset I am using is [GiantMIDI-Piano](https://github.com/bytedance/GiantMI
 
 Generated music:
 <br/>
-[RNN](https://github.com/DenisIndenbom/music_generation/raw/master/assets/RNN-generated.mp3)
+[RNN](https://github.com/DenisIndenbom/music_generation/raw/master/best_generated/RNN)
 <br/>
-[VAE](https://github.com/DenisIndenbom/music_generation/raw/master/assets/VAE-generated.mp3)
+[VAE](https://github.com/DenisIndenbom/music_generation/raw/master/best_generated/VAE)
 <br/>
-[GAN](https://github.com/DenisIndenbom/music_generation/raw/master/assets/GAN-generated.mp3)
+[GAN](https://github.com/DenisIndenbom/music_generation/raw/master/best_generated/GAN)
 <br/>
