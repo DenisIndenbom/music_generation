@@ -12,5 +12,5 @@ The dataset I am using is [GiantMIDI-Piano](https://github.com/bytedance/GiantMI
 ![VAE](assets/VAE-scheme.png) <br/>
 ## Generated music by
 - ### [RNN](https://github.com/DenisIndenbom/music_generation/raw/master/best_generated/RNN)
-- ### [VAE](https://github.com/DenisIndenbom/music_generation/raw/master/best_generated/VAE)
 - ### [GAN](https://github.com/DenisIndenbom/music_generation/raw/master/best_generated/GAN)
+- ### [VAE](https://github.com/DenisIndenbom/music_generation/raw/master/best_generated/VAE)
